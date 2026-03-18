@@ -34,3 +34,6 @@ p{
     flex: 1 1 100%;
     max-width:100%;
 }
+.cat-breed :hover{
+    transform: scale(1.05);
+}
